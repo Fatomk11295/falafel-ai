@@ -1,4 +1,4 @@
-# Falafel AI — Personal Chef Agent
+# Falafel AI 🧆 — Personal Chef Agent
 
 A multimodal AI chef assistant built with LangChain, LangGraph, and Google Gemini. The agent suggests recipes based on the ingredients you have, respects your dietary restrictions, and remembers your preferences across sessions.
 
